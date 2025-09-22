@@ -21,5 +21,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=daveaillerr&show_icons=true&locale=en&layout=compact" alt="daveaillerr" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daveaillerr&" alt="daveaillerr" /></p>
 
