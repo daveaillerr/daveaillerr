@@ -5,8 +5,6 @@
 
 - 📫 How to reach me **drivas.aillerr@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/ACER/Downloads/Dave%20Aillerr%20Rivas%20-%20Resume.pdf](file:///C:/Users/ACER/Downloads/Dave%20Aillerr%20Rivas%20-%20Resume.pdf)
-
 - ⚡ Fun fact **I'll do my best to do anything :)**
 
 <h3 align="left">Connect with me:</h3>
