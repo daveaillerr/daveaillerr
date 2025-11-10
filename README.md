@@ -6,33 +6,27 @@
 </a>
 
 <div align="justify">
-<h2 align="center"> Hi, I'm Dave Aillerr! 👋 </h2>
+<h1 align="center"> Hi, I'm Dave Aillerr! 👋 </h1>
 
 An aspiring developer/network specialist aiming to be a cybersecurity analyst. Passionate about coding, technology, and problem-solving. Always eager to learn and grow in the tech world.
 
 </div>
 
-<div align="justify">
-<h2 align="center"> Contact Me 📞 </h2>
+<h1 align="center"> Contact Me 📞 </h1>
 
 - Email: <a href="mailto: drivas.aillerr@gmail.com"> drivas.aillerr@gmail.com </a>
 - LinkedIn: <a href="https://www.linkedin.com/in/dave-aillerr-rivas/"> Dave Aillerr </a>
 - Portfolio: Working on it!
 
-</div>
-
-<div align="justify">
-<h2 align="center"> Technical Interests 💻</h2>
+<h1 align="center"> Technical Interests 💻</h1>
 
 - Cybersecurity
 - Network Administration
 - Software Development
 - Game Development
 
-</div>
-
-<h2 align="center">
-Technologies & Languages </h2>
+<h1 align="center">
+Technologies & Languages 🤖 </h1>
 
 <div align="center">
 
@@ -45,13 +39,11 @@ Technologies & Languages </h2>
 
 </div>
 
-<div align="justify">
-<h2 align="center"> Github Stats 👾</h2>
+<h1 align="center"> Github Stats 👾</h1>
 
 ![Dave Aillerr's GitHub stats](https://github-readme-stats.vercel.app/api?username=daveaillerr&show_icons=true&theme=radical)
 
 ![](https://komarev.com/ghpvc/?username=daveaillerr&style=flat-square&color=green)
 
-</div>
 
 
