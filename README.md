@@ -1,4 +1,5 @@
 <div align="center">
+<br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=800&size=38&pause=1000&color=F2C14E&center=true&vCenter=true&random=true&width=435&lines=Scale+through+Clouds;Securing+Systems;Growth+Mindset;Willing+to+Learn;Create+Impact)](https://git.io/typing-svg)
 
@@ -7,7 +8,6 @@
 </div>
 
 <div align="center">
-<br>
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0f1c42?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+CiAgPHJlY3QgeD0iMiIgeT0iOSIgd2lkdGg9IjQiIGhlaWdodD0iMTMiIGZpbGw9IiNlY2U3ZDgiLz4KICA8Y2lyY2xlIGN4PSI0IiBjeT0iNCIgcj0iMi40IiBmaWxsPSIjZWNlN2Q4Ii8+CiAgPHBhdGggZD0iTTEwIDloNHYyLjFjMS0xLjYgMi43LTIuNSA0LjYtMi41IDQgMCA1LjQgMi42IDUuNCA2LjZWMjJoLTR2LTZjMC0xLjktLjUtMy40LTIuNi0zLjQtMS45IDAtMi45IDEuMy0yLjkgMy40VjIyaC00eiIgZmlsbD0iI2VjZTdkOCIvPgo8L3N2Zz4K&labelColor=010d28)](https://www.linkedin.com/in/dave-aillerr-rivas/)
 [![Gmail](https://img.shields.io/badge/GMAIL-0f1c42?style=for-the-badge&logo=gmail&logoColor=ece7d8&labelColor=010d28)](mailto:drivas.aillerr@gmail.com)
