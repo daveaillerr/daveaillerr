@@ -1,5 +1,7 @@
 <div align="center">
 
+<br>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=800&size=38&pause=1000&color=F2C14E&center=true&vCenter=true&random=true&width=435&lines=Scale+through+Clouds;Securing+Systems;Growth+Mindset;Willing+to+Learn;Create+Impact)](https://git.io/typing-svg)
 
 <img src="./banner.svg" width="100%" alt="Dave Rivas"/>
@@ -32,7 +34,7 @@ I'm **Dave**, a BS Information Technology student. I enjoy learning how systems 
 
 ## ○ 作品 &nbsp;·&nbsp; Top Projects
 
-<img src="./emblem-2.svg" width="140" align="right" hspace="20" alt="spark emblem"/>
+<img src="./emblem-2.svg" width="140" align="right" hspace="20" alt="emblem"/>
 
 [![Packet-Maxxin](https://img.shields.io/badge/Packet_Maxxin-0f1c42?style=for-the-badge&logo=cisco&logoColor=ece7d8&labelColor=010d28)](#)
 A collection of hands-on activities of cisco packet tracer to excercise my networking skills.
