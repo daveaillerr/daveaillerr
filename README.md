@@ -20,25 +20,17 @@
 
 <br>
 
-<table>
-<tr>
-<td width="140" valign="top">
-<img src="./emblem-2.svg" width="140" alt="emblem"/>
-</td>
-<td valign="top">
+<img src="./emblem-2.svg" width="140" align="left" hspace="20" alt="emblem"/>
 
-I'm **Dave**, a second-year BS Information Technology student focused on cybersecurity and networking. I enjoy learning how systems work, how they break, and how to keep them from breaking — and I try to put that theory into practice through hands-on labs, research, and side projects rather than just coursework.
+I'm **Dave**, a BS Information Technology student. I enjoy learning how systems work, how they break, and how to keep them from breaking. Right now that curiosity is split between a cybersecurity, cloud, and few side projects built to put the theory into practice.
 
+<br>
 — Studying Information Technology, focused on Cybersecurity & Networking<br>
-— Designing and hardening enterprise-scale networks in Cisco Packet Tracer<br>
-— Building software and mobile applications that solve real, everyday problems<br>
-— Researching the intersection of quantum computing and cybersecurity<br>
-— Competing in CTFs and Ideathons, and volunteering in tech community initiatives
+— Upskilling by collecting handson activities of networking in Cisco Packet Tracer<br>
+— Building various softwares and web-based applications creates impact and solves real world problems <br>
+— Competing in Hackathons, Ideathons, and CTFs. Also voluteers to various tech initiatives
 
-</td>
-</tr>
-</table>
-
+<br clear="left"/>
 <br>
 
 ## ○ 作品 &nbsp;·&nbsp; Top Projects
