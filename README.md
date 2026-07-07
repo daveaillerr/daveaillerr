@@ -24,6 +24,7 @@
 
 I'm **Dave**, a BS Information Technology student. I enjoy learning how systems work, how they break, and how to keep them from breaking. Right now that curiosity is split between a cybersecurity, cloud, and few side projects built to put the theory into practice.
 
+<br>
 — Studying Information Technology, focused on Cybersecurity & Networking<br>
 — Upskilling by collecting handson activities of networking in Cisco Packet Tracer<br>
 — Building various softwares and web-based applications creates impact and solves real world problems <br>
@@ -34,7 +35,9 @@ I'm **Dave**, a BS Information Technology student. I enjoy learning how systems 
 
 ## ○ 作品 &nbsp;·&nbsp; Top Projects
 
-<img src="./emblem-2.svg" width="140" align="right" hspace="20" alt="emblem"/>
+<br>
+
+<img src="./emblem-1.svg" width="140" align="right" hspace="20" alt="emblem"/>
 
 [![Packet-Maxxin](https://img.shields.io/badge/Packet_Maxxin-0f1c42?style=for-the-badge&logo=cisco&logoColor=ece7d8&labelColor=010d28)](#)
 A collection of hands-on activities of cisco packet tracer to excercise my networking skills.
