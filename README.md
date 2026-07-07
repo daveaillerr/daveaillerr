@@ -24,7 +24,6 @@
 
 I'm **Dave**, a BS Information Technology student. I enjoy learning how systems work, how they break, and how to keep them from breaking. Right now that curiosity is split between a cybersecurity, cloud, and few side projects built to put the theory into practice.
 
-<br>
 — Studying Information Technology, focused on Cybersecurity & Networking<br>
 — Upskilling by collecting handson activities of networking in Cisco Packet Tracer<br>
 — Building various softwares and web-based applications creates impact and solves real world problems <br>
