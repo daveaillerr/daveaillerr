@@ -20,13 +20,16 @@
 
 <br>
 
-<img src="./emblem-2.svg" width="140" align="left" hspace="20" alt="emblem"/>
+<img src="./emblem-2.svg" width="170" align="left" hspace="20" alt="emblem"/>
 
 I'm **Dave**, a BS Information Technology student. I enjoy learning how systems work, how they break, and how to keep them from breaking. Right now that curiosity is split between a cybersecurity, cloud, and few side projects built to put the theory into practice.
 
-— Studying Information Technology, focused on Cybersecurity & Networking<br>
-— Upskilling by collecting handson activities of networking in Cisco Packet Tracer<br>
-— Building various softwares and web-based applications creates impact and solves real world problems <br>
+— Studying Information Technology, focused on Cybersecurity & Networking
+
+— Upskilling by collecting handson activities of networking in Cisco Packet Tracer
+
+— Building various softwares and web-based applications creates impact and solves real world problems
+
 — Competing in Hackathons, Ideathons, and CTFs. Also voluteers to various tech initiatives
 
 <br clear="left"/>
@@ -36,7 +39,7 @@ I'm **Dave**, a BS Information Technology student. I enjoy learning how systems 
 
 <br>
 
-<img src="./emblem-1.svg" width="140" align="right" hspace="20" alt="emblem"/>
+<img src="./emblem-1.svg" width="180" align="right" hspace="20" alt="emblem"/>
 
 [![Packet-Maxxin](https://img.shields.io/badge/Packet_Maxxin-0f1c42?style=for-the-badge&logo=cisco&logoColor=ece7d8&labelColor=010d28)](#)
 A collection of hands-on activities of cisco packet tracer to excercise my networking skills.
